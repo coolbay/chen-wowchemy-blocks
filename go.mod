@@ -1,3 +1,4 @@
-module github.com/wowchemy/wowchemy-block-starter
+module github.com/coolbay/alices-wowchemy-blocks
+
 
 go 1.19
